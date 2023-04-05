@@ -69,4 +69,8 @@ plugins {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+******************************************************************************************************************************************************
+File end
+******************************************************************************************************************************************************
 3. Application is connected to Firebase and dependencies are added ( Tools > Firebase > Realtime Database >Getting started )
