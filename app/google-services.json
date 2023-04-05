@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527965035517",
+    "firebase_url": "https://yabiso-8ce15-default-rtdb.firebaseio.com",
+    "project_id": "yabiso-8ce15",
+    "storage_bucket": "yabiso-8ce15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527965035517:android:7c302f754b176de75d5794",
+        "android_client_info": {
+          "package_name": "com.example.afya_njema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527965035517-ndck1q2oh0acrig6eo08i87p2faotdjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyvYvZGWi1WP3S32Dkj-ZgMevjqALwHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527965035517-ndck1q2oh0acrig6eo08i87p2faotdjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
